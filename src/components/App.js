@@ -17,7 +17,7 @@ const App = () => {
 
         <button className="btn btn-primary">イベントを作成</button>
         <button className="btn btn-danger">全てのイベントを削除</button>
-       
+      
       </form>
       <h4>イベント一覧</h4>
       <table className="table table-hover">
